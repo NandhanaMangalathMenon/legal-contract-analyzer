@@ -1,0 +1,46 @@
+# Secrets and local env
+.env
+.env.local
+*.pem
+credentials.json
+google-credentials.json
+
+# User contracts and processed outputs
+data/processed/
+data/user_uploads/
+*.contract.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Vector / cache stores
+data/.cache/
+*.chroma/
+.chroma/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+logs/

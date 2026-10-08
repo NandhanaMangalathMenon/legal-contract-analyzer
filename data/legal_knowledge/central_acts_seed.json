@@ -1,0 +1,369 @@
+{
+  "disclaimer": "Non-exhaustive research notes for Indian Central Law retrieval. Not official statutory text. Priority Acts listed: Indian Contract Act, 1872, Consumer Protection Act, 2019, Specific Relief Act, 1963, Arbitration and Conciliation Act, 1996, Sale of Goods Act, 1930, Information Technology Act, 2000, Digital Personal Data Protection Act, 2023, Copyright Act, 1957, Patents Act, 1970, Trade Marks Act, 1999, Companies Act, 2013, Competition Act, 2002, Limitation Act, 1963, Insolvency and Bankruptcy Code, 2016. Coverage is incomplete.",
+  "records": [
+    {
+      "document_id": "ICA-1872",
+      "document_name": "Indian Contract Act, 1872",
+      "document_type": "central_act",
+      "section": "10",
+      "title": "What agreements are contracts",
+      "text": "Research note (not official text): Section 10 of the Indian Contract Act, 1872 is commonly described as addressing when agreements become contracts, including free consent, competence of parties, lawful consideration and object, and that the agreement must not be expressly declared void. Read the official section on India Code before relying on it.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1872",
+      "topics": [
+        "formation",
+        "consent",
+        "consideration"
+      ]
+    },
+    {
+      "document_id": "ICA-1872",
+      "document_name": "Indian Contract Act, 1872",
+      "document_type": "central_act",
+      "section": "23",
+      "title": "What considerations and objects are lawful, and what not",
+      "text": "Research note (not official text): Section 23 is commonly cited regarding lawful consideration and object. Commercial unfairness is not the same as unlawfulness. Do not treat a one-sided clause as illegal solely because it is commercially harsh. Consult the official section.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1872",
+      "topics": [
+        "lawful object",
+        "consideration",
+        "public policy"
+      ]
+    },
+    {
+      "document_id": "ICA-1872",
+      "document_name": "Indian Contract Act, 1872",
+      "document_type": "central_act",
+      "section": "27",
+      "title": "Agreement in restraint of trade void",
+      "text": "Research note (not official text): Section 27 is commonly associated with agreements in restraint of trade. Non-compete language in a private contract may raise questions under this heading, but enforceability depends on the statutory text, exceptions, and facts. This system does not determine enforceability.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1872",
+      "topics": [
+        "non-compete",
+        "restraint of trade"
+      ]
+    },
+    {
+      "document_id": "ICA-1872",
+      "document_name": "Indian Contract Act, 1872",
+      "document_type": "central_act",
+      "section": "28",
+      "title": "Agreements in restraint of legal proceedings void",
+      "text": "Research note (not official text): Section 28 is commonly discussed in relation to clauses that restrict enforcement of rights in court. Arbitration agreements are a specialised area also governed by the Arbitration and Conciliation Act, 1996. Read both official texts; do not assume a dispute clause is void.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1872",
+      "topics": [
+        "dispute",
+        "arbitration",
+        "jurisdiction"
+      ]
+    },
+    {
+      "document_id": "ICA-1872",
+      "document_name": "Indian Contract Act, 1872",
+      "document_type": "central_act",
+      "section": "73",
+      "title": "Compensation for loss or damage caused by breach of contract",
+      "text": "Research note (not official text): Section 73 is commonly cited for compensation arising from breach. It is not a finding that any particular contractual fee is recoverable. Official text required.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1872",
+      "topics": [
+        "damages",
+        "breach",
+        "penalty"
+      ]
+    },
+    {
+      "document_id": "ICA-1872",
+      "document_name": "Indian Contract Act, 1872",
+      "document_type": "central_act",
+      "section": "74",
+      "title": "Compensation for breach of contract where penalty stipulated for",
+      "text": "Research note (not official text): Section 74 is commonly discussed where a contract names a sum payable on breach, including language labelled penalty or liquidated damages. Whether a clause is a penalty and what may be awarded is a legal question for a qualified professional using the official text and facts.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1872",
+      "topics": [
+        "penalty",
+        "liquidated damages",
+        "fees"
+      ]
+    },
+    {
+      "document_id": "ACA-1996",
+      "document_name": "Arbitration and Conciliation Act, 1996",
+      "document_type": "central_act",
+      "section": "7",
+      "title": "Arbitration agreement",
+      "text": "Research note (not official text): Section 7 concerns what constitutes an arbitration agreement. A contractual arbitration clause should be compared against the official requirements rather than assumed valid.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1996",
+      "topics": [
+        "arbitration",
+        "dispute"
+      ]
+    },
+    {
+      "document_id": "ACA-1996",
+      "document_name": "Arbitration and Conciliation Act, 1996",
+      "document_type": "central_act",
+      "section": "8",
+      "title": "Power to refer parties to arbitration where there is an arbitration agreement",
+      "text": "Research note (not official text): Section 8 is commonly cited regarding referring parties to arbitration when an arbitration agreement is invoked. This does not decide the outcome of any dispute.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1996",
+      "topics": [
+        "arbitration",
+        "jurisdiction"
+      ]
+    },
+    {
+      "document_id": "CPA-2019",
+      "document_name": "Consumer Protection Act, 2019",
+      "document_type": "central_act",
+      "section": "2",
+      "title": "Definitions (including consumer and unfair contract concepts in the Act)",
+      "text": "Research note (not official text): The Consumer Protection Act, 2019 includes definitions and remedies that may be relevant where a contracting party is a consumer within the meaning of the Act. Applicability is fact-specific. B2B contracts are not automatically consumer contracts. Official definitions must be checked.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "2019",
+      "topics": [
+        "consumer",
+        "unfair contract",
+        "liability"
+      ]
+    },
+    {
+      "document_id": "SRA-1963",
+      "document_name": "Specific Relief Act, 1963",
+      "document_type": "central_act",
+      "section": "10",
+      "title": "Specific performance of contracts (heading commonly associated with Part II)",
+      "text": "Research note (not official text): The Specific Relief Act, 1963 addresses specific performance and related reliefs. Whether a contractual obligation is specifically enforceable is not decided by this system.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1963",
+      "topics": [
+        "specific performance",
+        "obligations"
+      ]
+    },
+    {
+      "document_id": "SOGA-1930",
+      "document_name": "Sale of Goods Act, 1930",
+      "document_type": "central_act",
+      "section": "16",
+      "title": "Implied conditions as to quality or fitness (commonly cited heading)",
+      "text": "Research note (not official text): The Sale of Goods Act, 1930 may be relevant to contracts for sale of goods, including implied terms. It does not automatically apply to pure services agreements.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1930",
+      "topics": [
+        "sale of goods",
+        "warranties"
+      ]
+    },
+    {
+      "document_id": "IT-2000",
+      "document_name": "Information Technology Act, 2000",
+      "document_type": "central_act",
+      "section": "43",
+      "title": "Penalty and compensation for damage to computer, computer system, etc.",
+      "text": "Research note (not official text): Section 43 is commonly associated with unauthorised access and related damage to computer resources. Data-security contract clauses may sit alongside, not instead of, this Act.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "2000",
+      "topics": [
+        "data",
+        "security",
+        "IT"
+      ]
+    },
+    {
+      "document_id": "IT-2000",
+      "document_name": "Information Technology Act, 2000",
+      "document_type": "central_act",
+      "section": "72",
+      "title": "Penalty for breach of confidentiality and privacy",
+      "text": "Research note (not official text): Section 72 is commonly discussed in confidentiality/privacy contexts involving information obtained under the Act's powers. It is not a general substitute for contract NDA terms.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "2000",
+      "topics": [
+        "confidentiality",
+        "privacy"
+      ]
+    },
+    {
+      "document_id": "DPDP-2023",
+      "document_name": "Digital Personal Data Protection Act, 2023",
+      "document_type": "central_act",
+      "section": "4-8",
+      "title": "Processing of personal data and obligations of Data Fiduciary (grouped research note)",
+      "text": "Research note (not official text): The Digital Personal Data Protection Act, 2023 is Central legislation concerning digital personal data. Contract clauses on collection, sharing, retention, and security of personal data may be relevant to duties described in the Act, including consent and data fiduciary obligations. This seed does not reproduce official section wording. Check India Code and notified rules. State law or sectoral rules may also apply; if so the system should flag STATE_LAW_REQUIRED rather than guess.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "2023",
+      "topics": [
+        "privacy",
+        "personal data",
+        "data",
+        "retention"
+      ]
+    },
+    {
+      "document_id": "CA-1957",
+      "document_name": "Copyright Act, 1957",
+      "document_type": "central_act",
+      "section": "18",
+      "title": "Assignment of copyright",
+      "text": "Research note (not official text): Section 18 is commonly cited regarding assignment of copyright. A contract that purports to assign IP should be compared with the official assignment formalities, including related provisions such as mode of assignment.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1957",
+      "topics": [
+        "intellectual property",
+        "assignment",
+        "copyright"
+      ]
+    },
+    {
+      "document_id": "CA-1957",
+      "document_name": "Copyright Act, 1957",
+      "document_type": "central_act",
+      "section": "19",
+      "title": "Mode of assignment",
+      "text": "Research note (not official text): Section 19 is commonly associated with how copyright assignments are made, including writing and identification of the work. This system does not decide whether a clause is a valid assignment.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1957",
+      "topics": [
+        "intellectual property",
+        "assignment"
+      ]
+    },
+    {
+      "document_id": "PA-1970",
+      "document_name": "Patents Act, 1970",
+      "document_type": "central_act",
+      "section": "68",
+      "title": "Assignments, etc., not to be valid unless in writing and registered (commonly cited heading)",
+      "text": "Research note (not official text): Patent assignments and licences are specialised. A broad IP clause may not by itself transfer patent rights. Official Patents Act text and records must be checked.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1970",
+      "topics": [
+        "patents",
+        "intellectual property"
+      ]
+    },
+    {
+      "document_id": "TMA-1999",
+      "document_name": "Trade Marks Act, 1999",
+      "document_type": "central_act",
+      "section": "37-45",
+      "title": "Assignment and transmission (grouped research note)",
+      "text": "Research note (not official text): Trade mark assignment and licensing are governed by the Trade Marks Act, 1999. Contract language about brand use is not automatically a registered assignment.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1999",
+      "topics": [
+        "trademark",
+        "intellectual property"
+      ]
+    },
+    {
+      "document_id": "COA-2013",
+      "document_name": "Companies Act, 2013",
+      "document_type": "central_act",
+      "section": "188",
+      "title": "Related party transactions (commonly cited heading)",
+      "text": "Research note (not official text): If a contracting party is a company, Companies Act, 2013 requirements (including related party and authority to contract) may be relevant. This system does not verify board or shareholder approvals.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "2013",
+      "topics": [
+        "companies",
+        "authority"
+      ]
+    },
+    {
+      "document_id": "COMP-2002",
+      "document_name": "Competition Act, 2002",
+      "document_type": "central_act",
+      "section": "3",
+      "title": "Anti-competitive agreements",
+      "text": "Research note (not official text): Exclusivity, market allocation, or non-compete provisions may raise Competition Act, 2002 questions in some fact patterns. Presence of exclusivity is not a finding of illegality.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "2002",
+      "topics": [
+        "exclusivity",
+        "non-compete",
+        "competition"
+      ]
+    },
+    {
+      "document_id": "LA-1963",
+      "document_name": "Limitation Act, 1963",
+      "document_type": "central_act",
+      "section": "schedule",
+      "title": "Periods of limitation (schedule \u2014 research note)",
+      "text": "Research note (not official text): The Limitation Act, 1963 prescribes periods for suits. Contract claims may become time-barred. The precise article and starting point are fact-specific. Official schedule required.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "1963",
+      "topics": [
+        "limitation",
+        "enforcement"
+      ]
+    },
+    {
+      "document_id": "IBC-2016",
+      "document_name": "Insolvency and Bankruptcy Code, 2016",
+      "document_type": "central_act",
+      "section": "14",
+      "title": "Moratorium (commonly cited heading)",
+      "text": "Research note (not official text): Insolvency processes can affect enforcement of contractual rights. A termination or payment clause does not override statutory insolvency machinery if it applies on the facts.",
+      "authority": "central_act_summary",
+      "source": "india_code",
+      "source_url": "https://www.indiacode.nic.in/",
+      "version_date": "2016",
+      "topics": [
+        "insolvency",
+        "termination",
+        "payment"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "document_id": "DOC-DEMO-001",
+  "executive_summary": "Document analysed successfully. The contract structure reveals heavily weighted terms in favour of the vendor. Highest ranked issues: R-002 Penalty or liquidated damages language; R-001 Unilateral termination rights.",
+  "high_risks": [
+    {
+      "risk_id": "R-002",
+      "title": "Severe Penalty on Termination",
+      "explanation": "Section 2 specifies that if the Customer terminates early, they must pay a penalty of USD 500,000 without proof of actual damage.",
+      "priority_score": 0.85,
+      "why_it_matters": "Extremely high fixed penalties can heavily restrict your operational freedom and lock you into the contract.",
+      "human_review_required": true,
+      "verification": {
+        "status": "UNSUPPORTED",
+        "confidence": 0.8,
+        "reasoning": "Penalty clauses without proof of damage are treated strictly under Indian Law.",
+        "what_the_contract_says": "Customer must pay a penalty of USD 500,000.",
+        "what_the_law_says": "Section 74 of the Indian Contract Act, 1872 stipulates that if a sum is named in the contract as the amount to be paid in case of breach, the complaining party is entitled to reasonable compensation not exceeding the named amount.",
+        "what_the_system_inferred": "The USD 500,000 may be challenged in court as an unenforceable penalty rather than reasonable liquidated damages.",
+        "citations": []
+      }
+    }
+  ],
+  "medium_risks": [
+    {
+      "risk_id": "R-001",
+      "title": "Short Termination Notice",
+      "explanation": "The contract allows termination with only 15 days notice.",
+      "priority_score": 0.65,
+      "why_it_matters": "A short notice period might disrupt your business operations suddenly.",
+      "human_review_required": false,
+      "verification": {
+        "status": "VERIFIED",
+        "confidence": 0.9,
+        "reasoning": "",
+        "what_the_contract_says": "",
+        "what_the_law_says": "",
+        "what_the_system_inferred": "",
+        "citations": []
+      }
+    }
+  ],
+  "questions_for_lawyer": [
+    "Is the USD 500,000 penalty considered reasonable compensation under Section 74 of the Indian Contract Act, or an unenforceable penalty?",
+    "Can we negotiate the 15-day termination notice to at least 30 or 60 days to ensure business continuity?"
+  ],
+  "dependencies_graph": [],
+  "citations": [],
+  "human_review_warnings": [
+    "R-002 requires human review."
+  ],
+  "limitations": [
+    "This system is not a lawyer and does not provide legal advice."
+  ],
+  "not_legal_advice": "This report is decision-support only. It is not legal advice, does not replace a qualified lawyer, and does not tell the user whether to sign a contract."
+}

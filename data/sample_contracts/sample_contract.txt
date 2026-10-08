@@ -1,0 +1,83 @@
+MASTER SOFTWARE SERVICES AGREEMENT
+
+This Agreement is made on 1 January 2026 between Alpha Tech Private Limited (the "Vendor") and Beta Retail Private Limited (the "Customer").
+
+Page 1:
+
+Section 1 Definitions
+"Confidential Information" means all non-public information disclosed by either party, including personal data of end customers.
+"Business Day" means a day other than Saturday, Sunday, or a public holiday in India.
+"Fees" means the amounts set out in Schedule B.
+
+Page 2:
+
+Section 2 Purpose
+The Vendor shall provide software services to the Customer in India.
+
+Section 3 Payment
+The Customer shall pay Fees within 15 days of invoice. Late payments attract a penalty of 5% per week.
+
+Page 5:
+
+Section 5 Termination
+Either party may terminate this agreement with 30 days' notice.
+
+Section 5.1 Early Termination
+If the Customer terminates before the Initial Term ends, the Customer shall pay an early termination fee equal to 12 months of Fees.
+
+Page 10:
+
+Section 7 Confidentiality
+The Receiving Party shall protect Confidential Information as defined in Section 1, except as provided in Schedule B.
+
+Section 8 Renewal
+This Agreement shall automatically renew for another 12 months unless 90 days' notice is provided.
+
+Page 12:
+
+Section 9 Liability
+The Vendor's liability is capped at ₹10 lakh, except for indemnity claims.
+
+Section 10 Indemnity
+The Customer shall indemnify and hold harmless the Vendor against all claims arising from use of the services, including third-party IP claims.
+
+Page 20:
+
+Section 11 Intellectual Property
+The Customer hereby assigns all right, title and interest in any intellectual property created using the services, including user-created work, on a perpetual basis.
+
+Section 12 Non-Compete
+The Customer shall not compete with the Vendor in India for 24 months after termination.
+
+Section 13 Data
+The Vendor may collect, share and retain personal data of the Customer's users for 10 years.
+
+Section 14 Dispute Resolution
+All disputes shall be finally settled by arbitration in Mumbai under the Arbitration and Conciliation Act, 1996.
+
+Section 15 Governing Law
+This Agreement is governed by the laws of India.
+
+Page 50:
+
+Section 16 Notice Override
+Notwithstanding Section 5, termination by Party A shall require 90 days' notice.
+
+Page 80:
+
+Schedule B — Fees and Exit
+Schedule B modifies the termination provisions.
+Liability shall be unlimited for any breach of Confidential Information.
+Notice must be delivered within 5 Business Days including Saturday.
+Fees are non-refundable.
+
+Page 90:
+
+Annexure A — Security
+As set forth in Annexure A, the Vendor will use commercially reasonable security.
+
+Page 95:
+
+Amendment No. 2 dated 15 March 2026
+Pursuant to Amendment No. 2, Section 5 is hereby amended to read as follows: termination by the Customer shall require 90 days' notice and remains subject to the early termination fee in Section 5.1.
+This Amendment is between the Vendor and the Customer. It does not automatically supersede Schedule B.
