@@ -16,15 +16,12 @@
       "type": "string",
       "const": "1.0"
     },
-
     "document_id": {
       "type": "string"
     },
-
     "filename": {
       "type": "string"
     },
-
     "document_metadata": {
       "type": "object",
       "additionalProperties": false,
@@ -40,29 +37,22 @@
         },
         "page_count": {
           "type": "integer",
-          "minimum": 1
+          "minimum": 0
         },
         "language": {
           "type": "string"
         },
         "jurisdiction_text": {
-          "type": [
-            "string",
-            "null"
-          ]
+          "type": ["string", "null"]
         }
       }
     },
-
     "parties": {
       "type": "array",
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": [
-          "name",
-          "role"
-        ],
+        "required": ["name", "role"],
         "properties": {
           "name": {
             "type": "string"
@@ -73,7 +63,6 @@
         }
       }
     },
-
     "clauses": {
       "type": "array",
       "items": {
@@ -89,149 +78,39 @@
           "clause_id": {
             "type": "string"
           },
-
           "type": {
-            "type": "string",
-            "enum": [
-              "payment",
-              "termination",
-              "renewal",
-              "liability",
-              "indemnification",
-              "confidentiality",
-              "intellectual_property",
-              "privacy_data",
-              "non_compete",
-              "non_solicitation",
-              "exclusivity",
-              "dispute_resolution",
-              "governing_law",
-              "obligations",
-              "penalties",
-              "miscellaneous",
-              "other"
-            ]
+            "type": "string"
           },
-
           "title": {
-            "type": [
-              "string",
-              "null"
-            ]
+            "type": ["string", "null"]
           },
-
           "text": {
             "type": "string"
           },
-
           "location": {
             "type": "object",
             "additionalProperties": false,
-            "required": [
-              "page_start"
-            ],
+            "required": ["page_start"],
             "properties": {
               "page_start": {
                 "type": "integer",
                 "minimum": 1
               },
-
               "page_end": {
-                "type": [
-                  "integer",
-                  "null"
-                ],
-                "minimum": 1
+                "type": ["integer", "null"]
               },
-
               "section": {
-                "type": [
-                  "string",
-                  "null"
-                ]
+                "type": ["string", "null"]
               }
             }
           },
-
           "entities": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-              "money": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              },
-
-              "percentages": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              },
-
-              "dates": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              },
-
-              "deadlines": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              },
-
-              "notice_periods": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              },
-
-              "obligations": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              },
-
-              "defined_terms": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              }
-            }
+            "type": "object"
           },
-
           "references": {
             "type": "array",
             "items": {
               "type": "string"
-            }
-          },
-
-          "retrieval": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-              "embedding_id": {
-                "type": [
-                  "string",
-                  "null"
-                ]
-              },
-
-              "tfidf_terms": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              }
             }
           }
         }
