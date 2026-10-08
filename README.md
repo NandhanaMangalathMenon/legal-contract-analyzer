@@ -342,7 +342,7 @@ Once deployed, this section should include the actual application URL and explai
 
 ## Demo Video
 
-**Demo Video:** TBD
+**Demo Video:** https://drive.google.com/file/d/1cYMqegHWdS9op1uoOVL0G8PoEUaDVRFS/view?usp=sharing
 
 The demonstration should cover:
 
