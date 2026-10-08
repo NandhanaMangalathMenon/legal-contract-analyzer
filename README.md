@@ -118,7 +118,7 @@ Run the orchestrator locally against `data/sample_contracts/sample_contract.txt`
 
 ## Demo Video
 
-**Demo Video:** To be added by the team
+**Demo Video:** https://drive.google.com/file/d/1cYMqegHWdS9op1uoOVL0G8PoEUaDVRFS/view?usp=sharing
 
 ## Open Source and AI Usage
 
