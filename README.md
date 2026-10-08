@@ -4,15 +4,15 @@
 
 ## Team
 
-**Team Name:** [Team Name]
+**Team Name:** CoolBerg Testers
 
 
 | Member | Contribution   |
 | ------ | -------------- |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
+| Himanshu | [Contribution] |
+| Vanshika | [Contribution] |
+| Nandana | [Contribution] |
+| Varun | [Contribution] |
 
 
 ## Problem Statement
