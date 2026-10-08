@@ -5,11 +5,13 @@ import json
 import sys
 
 from common.file_parser import parse_document
+
 from agent1.agent import Agent1
 from agent2.agent import Agent2
 
 
 def main():
+
     parser = argparse.ArgumentParser(
         description="Run Agent 2: Contract Risk Analyst"
     )
@@ -28,22 +30,33 @@ def main():
     args = parser.parse_args()
 
     try:
-        # ---------------------------------------------------------
-        # Step 1: Parse document
-        # ---------------------------------------------------------
-        print(f"Processing: {args.file}")
 
-        pages = parse_document(args.file)
+        # =====================================================
+        # STEP 1
+        # Parse document
+        # =====================================================
+
+        print(
+            f"\nProcessing document: {args.file}"
+        )
+
+        pages = parse_document(
+            args.file
+        )
 
         print(
             f"Extracted {len(pages)} page(s)."
         )
 
-        # ---------------------------------------------------------
-        # Step 2: Run Agent 1
+        # =====================================================
+        # STEP 2
+        # Run Agent 1
         # Document → DocumentAnalysis
-        # ---------------------------------------------------------
-        print("Running Agent 1...")
+        # =====================================================
+
+        print(
+            "\n[1/2] Running Agent 1..."
+        )
 
         agent1 = Agent1()
 
@@ -52,13 +65,19 @@ def main():
             pages=pages
         )
 
-        print("Agent 1 completed.")
+        print(
+            "Agent 1 completed."
+        )
 
-        # ---------------------------------------------------------
-        # Step 3: Run Agent 2
+        # =====================================================
+        # STEP 3
+        # Run Agent 2
         # DocumentAnalysis → RiskAnalysis
-        # ---------------------------------------------------------
-        print("Running Agent 2...")
+        # =====================================================
+
+        print(
+            "\n[2/2] Running Agent 2..."
+        )
 
         agent2 = Agent2()
 
@@ -66,32 +85,48 @@ def main():
             document_analysis=document_analysis
         )
 
-        print("Agent 2 completed.")
+        print(
+            "Agent 2 completed."
+        )
 
-        # ---------------------------------------------------------
-        # Step 4: Convert result to JSON
-        # ---------------------------------------------------------
+        # =====================================================
+        # STEP 4
+        # Convert result to JSON
+        # =====================================================
+
         output = json.dumps(
             risk_analysis,
             indent=2,
             ensure_ascii=False
         )
 
-        print("\n" + "=" * 70)
-        print("AGENT 2 - RISK ANALYSIS")
-        print("=" * 70)
+        print(
+            "\n" + "=" * 70
+        )
+
+        print(
+            "AGENT 2 - RISK ANALYSIS"
+        )
+
+        print(
+            "=" * 70
+        )
 
         print(output)
 
-        # ---------------------------------------------------------
-        # Step 5: Save output if requested
-        # ---------------------------------------------------------
+        # =====================================================
+        # STEP 5
+        # Save result if requested
+        # =====================================================
+
         if args.output:
+
             with open(
                 args.output,
                 "w",
                 encoding="utf-8"
             ) as f:
+
                 f.write(output)
 
             print(
@@ -99,21 +134,27 @@ def main():
             )
 
     except FileNotFoundError as e:
+
         print(
             f"\nERROR: File not found: {e}"
         )
+
         sys.exit(1)
 
     except ValueError as e:
+
         print(
             f"\nERROR: {e}"
         )
+
         sys.exit(1)
 
     except Exception as e:
+
         print(
-            f"\nERROR while running Agent 2: {e}"
+            f"\nAGENT 2 ERROR: {e}"
         )
+
         sys.exit(1)
 
 
